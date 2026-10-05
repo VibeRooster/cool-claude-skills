@@ -28,8 +28,8 @@ Apply opinionated styling to barebones HTML.
 
 See the skill in action using the same Northline weekly ops fixture:
 
-- [Before](https://skill-fixture-before.theroost.dev/vr_gallery=1) - Basic styling, shared fixture
-- [After](https://html-style-after.theroost.dev/vr_gallery=1) - Styled with this skill's stylesheet
+- [Before](https://skill-fixture-before.theroost.dev?vr_gallery=1) - Basic styling, shared fixture
+- [After](https://html-style-after.theroost.dev?vr_gallery=1) - Styled with this skill's stylesheet
 
 ## Resources
 
